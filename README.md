@@ -18,7 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cereal-hecker&show_icons=true&theme=dark&text_color=ffffff&hide_border=true&locale=en" alt="cereal-hecker" /></p>
 
 <h3 align="left">If I'm this cool already, imagine how cool I'd be if you buy me a coffee?</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/riyabatla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/riyabatla" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/riyabatla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/riyabatla" /></a></p><br><br>
 
 
 <p>
