@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Riya Batla</h1>
-<p align="center"> An Enthusiastic Web Developer</p>
+<p align="center">I like to create</p>
 <ul>
 <li>🌱 I’m currently learning <b>ReactJS</b></li>
 <li>📫 Reach me at <b> <a href="https://www.linkedin.com/in/riya-batla/"> www.linkedin.com/in/riya-batla </a> </b></li>
